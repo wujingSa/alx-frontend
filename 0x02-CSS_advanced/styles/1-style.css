@@ -1,0 +1,4 @@
+/* Task 1: behavior of the scroll to be as fluid as possible.*/
+html {
+	scroll-behavior: smooth;
+}
